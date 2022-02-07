@@ -2,4 +2,4 @@
 
 Do not expect so many (if any) progress on this project for several months)
 
-(Earliest June, 2022)
+(And Eleos, this project involves more than just a tf2 server)
